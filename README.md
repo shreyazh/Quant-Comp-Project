@@ -4,7 +4,7 @@
 
 Quantum Computing Playground is an interactive Streamlit web application designed to demonstrate fundamental quantum computing concepts using Qiskit. This educational tool allows users to explore various quantum phenomena through intuitive visualizations and simulations.
 
-![Quantum Computing Banner](https://static01.nyt.com/images/2023/06/20/multimedia/14quantum-01-jwqp/14quantum-01-jwqp-superJumbo.jpg?quality=75&auto=webp)
+![Quantum Computing Banner](https://cdn.mos.cms.futurecdn.net/rFMm9mi8RB3hWbffaTpXSE-650-80.jpg.webp)
 
 ## Features
 

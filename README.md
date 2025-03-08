@@ -1,5 +1,7 @@
 # Quantum Computing Playground 🔬🔮
 
+⭐ Quantum Computing Hackathon Winner - Best Quantum Project 🏆
+
 ## Overview
 
 Quantum Computing Playground is an interactive Streamlit web application designed to demonstrate fundamental quantum computing concepts using Qiskit. This educational tool allows users to explore various quantum phenomena through intuitive visualizations and simulations.
